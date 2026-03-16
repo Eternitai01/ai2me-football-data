@@ -1,0 +1,206 @@
+{
+  "leagues": [
+    {
+      "name": "UEFA Champions League",
+      "tier": 1,
+      "confederation": "UEFA",
+      "country": "Europe",
+      "official_website": "https://www.uefa.com/uefachampionsleague/",
+      "regulations_url": "https://www.uefa.com/uefachampionsleague/news/0253-0d7f64e98b7f-23d569eb20f8-1000--club-licensing-and-financial-fair-play-regulations/",
+      "data_priority": "high"
+    },
+    {
+      "name": "Premier League",
+      "tier": 1,
+      "confederation": "UEFA",
+      "country": "England",
+      "official_website": "https://www.premierleague.com/",
+      "regulations_url": "https://www.premierleague.com/footer/rules-and-governance",
+      "squad_cost_control_url": "https://www.premierleague.com/news/3315368",
+      "data_priority": "high"
+    },
+    {
+      "name": "La Liga",
+      "tier": 1,
+      "confederation": "UEFA",
+      "country": "Spain",
+      "official_website": "https://www.laliga.com/",
+      "regulations_url": "https://www.laliga.com/en-GB/transparency/economic-control",
+      "salary_cap_url": "https://www.laliga.com/en-GB/news/spending-limits-for-the-202526-season",
+      "data_priority": "high"
+    },
+    {
+      "name": "Serie A",
+      "tier": 1,
+      "confederation": "UEFA",
+      "country": "Italy",
+      "official_website": "https://www.legaseriea.it/en",
+      "regulations_url": "https://www.legaseriea.it/en/serie-a/norme-e-regolamenti",
+      "data_priority": "high"
+    },
+    {
+      "name": "Bundesliga",
+      "tier": 1,
+      "confederation": "UEFA",
+      "country": "Germany",
+      "official_website": "https://www.bundesliga.com/en/bundesliga",
+      "regulations_url": "https://www.dfl.de/en/",
+      "data_priority": "high"
+    },
+    {
+      "name": "Ligue 1",
+      "tier": 1,
+      "confederation": "UEFA",
+      "country": "France",
+      "official_website": "https://www.ligue1.com/",
+      "regulations_url": "https://www.lfp.fr/corporate/articles/dncg",
+      "data_priority": "high"
+    },
+    {
+      "name": "MLS",
+      "tier": 1,
+      "confederation": "CONCACAF",
+      "country": "USA/Canada",
+      "official_website": "https://www.mlssoccer.com/",
+      "regulations_url": "https://www.mlssoccer.com/about/roster-rules-and-regulations",
+      "salary_cap_url": "https://www.mlssoccer.com/about/roster-rules-and-regulations",
+      "data_priority": "high"
+    },
+    {
+      "name": "Saudi Pro League",
+      "tier": 1,
+      "confederation": "AFC",
+      "country": "Saudi Arabia",
+      "official_website": "https://www.slstat.com/en",
+      "data_priority": "high"
+    },
+    {
+      "name": "Eredivisie",
+      "tier": 1,
+      "confederation": "UEFA",
+      "country": "Netherlands",
+      "official_website": "https://eredivisie.nl/en",
+      "data_priority": "medium"
+    },
+    {
+      "name": "Primeira Liga",
+      "tier": 1,
+      "confederation": "UEFA",
+      "country": "Portugal",
+      "official_website": "https://www.ligaportugal.pt/en",
+      "data_priority": "medium"
+    },
+    {
+      "name": "Turkish Super Lig",
+      "tier": 1,
+      "confederation": "UEFA",
+      "country": "Turkey",
+      "official_website": "https://www.tff.org/default.aspx?pageID=198",
+      "data_priority": "medium"
+    },
+    {
+      "name": "Argentine Primera División",
+      "tier": 1,
+      "confederation": "CONMEBOL",
+      "country": "Argentina",
+      "official_website": "https://www.afa.com.ar/",
+      "data_priority": "medium"
+    },
+    {
+      "name": "Brazilian Série A",
+      "tier": 1,
+      "confederation": "CONMEBOL",
+      "country": "Brazil",
+      "official_website": "https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a",
+      "data_priority": "medium"
+    },
+    {
+      "name": "Championship (EFL)",
+      "tier": 2,
+      "confederation": "UEFA",
+      "country": "England",
+      "official_website": "https://www.efl.com/",
+      "data_priority": "medium"
+    },
+    {
+      "name": "Segunda División",
+      "tier": 2,
+      "confederation": "UEFA",
+      "country": "Spain",
+      "official_website": "https://www.laliga.com/laliga-hypermotion",
+      "data_priority": "low"
+    }
+  ],
+  "top_clubs": [
+    {
+      "name": "Real Madrid",
+      "league": "La Liga",
+      "official_website": "https://www.realmadrid.com/",
+      "squad_url": "https://www.realmadrid.com/en-US/football/squad",
+      "news_url": "https://www.realmadrid.com/en-US/news"
+    },
+    {
+      "name": "Barcelona",
+      "league": "La Liga",
+      "official_website": "https://www.fcbarcelona.com/",
+      "squad_url": "https://www.fcbarcelona.com/en/football/first-team/players",
+      "news_url": "https://www.fcbarcelona.com/en/news"
+    },
+    {
+      "name": "Manchester City",
+      "league": "Premier League",
+      "official_website": "https://www.mancity.com/",
+      "squad_url": "https://www.mancity.com/players",
+      "news_url": "https://www.mancity.com/news"
+    },
+    {
+      "name": "Manchester United",
+      "league": "Premier League",
+      "official_website": "https://www.manutd.com/",
+      "squad_url": "https://www.manutd.com/en/players-and-staff/first-team",
+      "news_url": "https://www.manutd.com/en/news"
+    },
+    {
+      "name": "Liverpool",
+      "league": "Premier League",
+      "official_website": "https://www.liverpoolfc.com/",
+      "squad_url": "https://www.liverpoolfc.com/team/first-team",
+      "news_url": "https://www.liverpoolfc.com/news"
+    },
+    {
+      "name": "Bayern Munich",
+      "league": "Bundesliga",
+      "official_website": "https://fcbayern.com/en",
+      "squad_url": "https://fcbayern.com/en/teams/first-team",
+      "news_url": "https://fcbayern.com/en/news"
+    },
+    {
+      "name": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "official_website": "https://en.psg.fr/",
+      "squad_url": "https://en.psg.fr/teams/first-team",
+      "news_url": "https://en.psg.fr/news"
+    },
+    {
+      "name": "Juventus",
+      "league": "Serie A",
+      "official_website": "https://www.juventus.com/en/",
+      "squad_url": "https://www.juventus.com/en/teams/men",
+      "news_url": "https://www.juventus.com/en/news"
+    },
+    {
+      "name": "Inter Milan",
+      "league": "Serie A",
+      "official_website": "https://www.inter.it/en",
+      "squad_url": "https://www.inter.it/en/squadra",
+      "news_url": "https://www.inter.it/en/archivio-news"
+    },
+    {
+      "name": "AC Milan",
+      "league": "Serie A",
+      "official_website": "https://www.acmilan.com/en",
+      "squad_url": "https://www.acmilan.com/en/teams/men",
+      "news_url": "https://www.acmilan.com/en/news"
+    }
+  ]
+}

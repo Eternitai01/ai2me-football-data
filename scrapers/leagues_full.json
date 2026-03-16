@@ -1,0 +1,382 @@
+{
+  "leagues": [
+    {
+      "name": "La Liga",
+      "country": "Spain",
+      "tier": 1,
+      "num_teams": 20,
+      "official_website": "https://www.laliga.com/",
+      "transfermarkt_url": "https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1"
+    },
+    {
+      "name": "La Liga 2",
+      "country": "Spain",
+      "tier": 2,
+      "num_teams": 22,
+      "official_website": "https://www.laliga.com/laliga-hypermotion",
+      "transfermarkt_url": "https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2"
+    },
+    {
+      "name": "Serie A",
+      "country": "Italy",
+      "tier": 1,
+      "num_teams": 20,
+      "official_website": "https://www.legaseriea.it/en",
+      "transfermarkt_url": "https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1"
+    },
+    {
+      "name": "Serie B",
+      "country": "Italy",
+      "tier": 2,
+      "num_teams": 20,
+      "official_website": "https://www.legab.it/",
+      "transfermarkt_url": "https://www.transfermarkt.com/serie-b/startseite/wettbewerb/IT2"
+    },
+    {
+      "name": "Bundesliga",
+      "country": "Germany",
+      "tier": 1,
+      "num_teams": 18,
+      "official_website": "https://www.bundesliga.com/en/bundesliga",
+      "transfermarkt_url": "https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1"
+    },
+    {
+      "name": "2. Bundesliga",
+      "country": "Germany",
+      "tier": 2,
+      "num_teams": 18,
+      "official_website": "https://www.bundesliga.com/en/2bundesliga",
+      "transfermarkt_url": "https://www.transfermarkt.com/2-bundesliga/startseite/wettbewerb/L2"
+    },
+    {
+      "name": "Primeira Liga",
+      "country": "Portugal",
+      "tier": 1,
+      "num_teams": 18,
+      "official_website": "https://www.ligaportugal.pt/en",
+      "transfermarkt_url": "https://www.transfermarkt.com/primeira-liga/startseite/wettbewerb/PO1"
+    },
+    {
+      "name": "Liga Portugal 2",
+      "country": "Portugal",
+      "tier": 2,
+      "num_teams": 18,
+      "official_website": "https://www.ligaportugal.pt/en/liga/liga-portugal-2",
+      "transfermarkt_url": "https://www.transfermarkt.com/liga-portugal-2/startseite/wettbewerb/PO2"
+    },
+    {
+      "name": "Ligue 1",
+      "country": "France",
+      "tier": 1,
+      "num_teams": 18,
+      "official_website": "https://www.ligue1.com/",
+      "transfermarkt_url": "https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1"
+    },
+    {
+      "name": "Ligue 2",
+      "country": "France",
+      "tier": 2,
+      "num_teams": 20,
+      "official_website": "https://www.ligue2.fr/",
+      "transfermarkt_url": "https://www.transfermarkt.com/ligue-2/startseite/wettbewerb/FR2"
+    },
+    {
+      "name": "J1 League",
+      "country": "Japan",
+      "tier": 1,
+      "num_teams": 20,
+      "official_website": "https://www.jleague.jp/en/",
+      "transfermarkt_url": "https://www.transfermarkt.com/j1-league/startseite/wettbewerb/JAP1"
+    },
+    {
+      "name": "J2 League",
+      "country": "Japan",
+      "tier": 2,
+      "num_teams": 22,
+      "official_website": "https://www.jleague.jp/en/",
+      "transfermarkt_url": "https://www.transfermarkt.com/j2-league/startseite/wettbewerb/JAP2"
+    },
+    {
+      "name": "Chinese Super League",
+      "country": "China",
+      "tier": 1,
+      "num_teams": 16,
+      "official_website": "http://www.thecsl.cn/",
+      "transfermarkt_url": "https://www.transfermarkt.com/chinese-super-league/startseite/wettbewerb/CSL"
+    },
+    {
+      "name": "China League One",
+      "country": "China",
+      "tier": 2,
+      "num_teams": 18,
+      "official_website": "http://www.thecsl.cn/",
+      "transfermarkt_url": "https://www.transfermarkt.com/china-league-one/startseite/wettbewerb/CHI2"
+    },
+    {
+      "name": "Saudi Pro League",
+      "country": "Saudi Arabia",
+      "tier": 1,
+      "num_teams": 18,
+      "official_website": "https://www.slstat.com/en",
+      "transfermarkt_url": "https://www.transfermarkt.com/saudi-professional-league/startseite/wettbewerb/SA1"
+    },
+    {
+      "name": "Saudi First Division",
+      "country": "Saudi Arabia",
+      "tier": 2,
+      "num_teams": 20,
+      "official_website": "https://www.slstat.com/en",
+      "transfermarkt_url": "https://www.transfermarkt.com/saudi-first-division-league/startseite/wettbewerb/SA2"
+    },
+    {
+      "name": "Premier League",
+      "country": "England",
+      "tier": 1,
+      "num_teams": 20,
+      "official_website": "https://www.premierleague.com/",
+      "transfermarkt_url": "https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1"
+    },
+    {
+      "name": "Championship",
+      "country": "England",
+      "tier": 2,
+      "num_teams": 24,
+      "official_website": "https://www.efl.com/",
+      "transfermarkt_url": "https://www.transfermarkt.com/championship/startseite/wettbewerb/GB2"
+    },
+    {
+      "name": "HNL",
+      "country": "Croatia",
+      "tier": 1,
+      "num_teams": 10,
+      "official_website": "https://hnl.hr/",
+      "transfermarkt_url": "https://www.transfermarkt.com/1-hnl/startseite/wettbewerb/KR1"
+    },
+    {
+      "name": "Prva NL",
+      "country": "Croatia",
+      "tier": 2,
+      "num_teams": 12,
+      "official_website": "https://hnl.hr/",
+      "transfermarkt_url": "https://www.transfermarkt.com/2-hnl/startseite/wettbewerb/KR2"
+    },
+    {
+      "name": "Danish Superliga",
+      "country": "Denmark",
+      "tier": 1,
+      "num_teams": 12,
+      "official_website": "https://superliga.dk/en/",
+      "transfermarkt_url": "https://www.transfermarkt.com/superligaen/startseite/wettbewerb/DK1"
+    },
+    {
+      "name": "Danish 1st Division",
+      "country": "Denmark",
+      "tier": 2,
+      "num_teams": 12,
+      "official_website": "https://1division.dk/",
+      "transfermarkt_url": "https://www.transfermarkt.com/1-division/startseite/wettbewerb/DK2"
+    },
+    {
+      "name": "Eredivisie",
+      "country": "Netherlands",
+      "tier": 1,
+      "num_teams": 18,
+      "official_website": "https://eredivisie.nl/en",
+      "transfermarkt_url": "https://www.transfermarkt.com/eredivisie/startseite/wettbewerb/NL1"
+    },
+    {
+      "name": "Eerste Divisie",
+      "country": "Netherlands",
+      "tier": 2,
+      "num_teams": 20,
+      "official_website": "https://www.eerstedivsie.nl/",
+      "transfermarkt_url": "https://www.transfermarkt.com/eerste-divisie/startseite/wettbewerb/NL2"
+    },
+    {
+      "name": "Scottish Premiership",
+      "country": "Scotland",
+      "tier": 1,
+      "num_teams": 12,
+      "official_website": "https://spfl.co.uk/",
+      "transfermarkt_url": "https://www.transfermarkt.com/scottish-premiership/startseite/wettbewerb/SC1"
+    },
+    {
+      "name": "Scottish Championship",
+      "country": "Scotland",
+      "tier": 2,
+      "num_teams": 10,
+      "official_website": "https://spfl.co.uk/",
+      "transfermarkt_url": "https://www.transfermarkt.com/scottish-championship/startseite/wettbewerb/SC2"
+    },
+    {
+      "name": "Brasileirão Série A",
+      "country": "Brazil",
+      "tier": 1,
+      "num_teams": 20,
+      "official_website": "https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a",
+      "transfermarkt_url": "https://www.transfermarkt.com/campeonato-brasileiro-serie-a/startseite/wettbewerb/BRA1"
+    },
+    {
+      "name": "Brasileirão Série B",
+      "country": "Brazil",
+      "tier": 2,
+      "num_teams": 20,
+      "official_website": "https://www.cbf.com.br/futebol-brasileiro/competicoes/brasileiro-serie-b",
+      "transfermarkt_url": "https://www.transfermarkt.com/campeonato-brasileiro-serie-b/startseite/wettbewerb/BRA2"
+    },
+    {
+      "name": "Liga BetPlay",
+      "country": "Colombia",
+      "tier": 1,
+      "num_teams": 20,
+      "official_website": "https://www.dimayor.com.co/",
+      "transfermarkt_url": "https://www.transfermarkt.com/liga-betplay-dimayor/startseite/wettbewerb/CO1"
+    },
+    {
+      "name": "Torneo BetPlay",
+      "country": "Colombia",
+      "tier": 2,
+      "num_teams": 16,
+      "official_website": "https://www.dimayor.com.co/",
+      "transfermarkt_url": "https://www.transfermarkt.com/torneo-betplay-dimayor-ii/startseite/wettbewerb/CODB"
+    },
+    {
+      "name": "Liga Profesional",
+      "country": "Argentina",
+      "tier": 1,
+      "num_teams": 28,
+      "official_website": "https://www.afa.com.ar/",
+      "transfermarkt_url": "https://www.transfermarkt.com/liga-profesional-de-futbol/startseite/wettbewerb/AR1N"
+    },
+    {
+      "name": "Primera Nacional",
+      "country": "Argentina",
+      "tier": 2,
+      "num_teams": 37,
+      "official_website": "https://www.afa.com.ar/",
+      "transfermarkt_url": "https://www.transfermarkt.com/primera-nacional/startseite/wettbewerb/AR2"
+    },
+    {
+      "name": "Liga MX",
+      "country": "Mexico",
+      "tier": 1,
+      "num_teams": 18,
+      "official_website": "https://www.ligamx.net/",
+      "transfermarkt_url": "https://www.transfermarkt.com/liga-mx-clausura/startseite/wettbewerb/MEX1"
+    },
+    {
+      "name": "Liga de Expansión MX",
+      "country": "Mexico",
+      "tier": 2,
+      "num_teams": 16,
+      "official_website": "https://www.ligamx.net/",
+      "transfermarkt_url": "https://www.transfermarkt.com/liga-de-expansion-mx-clausura/startseite/wettbewerb/MEXE"
+    },
+    {
+      "name": "Primera División",
+      "country": "Uruguay",
+      "tier": 1,
+      "num_teams": 16,
+      "official_website": "https://www.auf.org.uy/",
+      "transfermarkt_url": "https://www.transfermarkt.com/primera-division-uruguay/startseite/wettbewerb/URU1"
+    },
+    {
+      "name": "Segunda División",
+      "country": "Uruguay",
+      "tier": 2,
+      "num_teams": 14,
+      "official_website": "https://www.auf.org.uy/",
+      "transfermarkt_url": "https://www.transfermarkt.com/segunda-division-profesional/startseite/wettbewerb/URU2"
+    },
+    {
+      "name": "LigaPro",
+      "country": "Ecuador",
+      "tier": 1,
+      "num_teams": 16,
+      "official_website": "https://www.ligapro.ec/",
+      "transfermarkt_url": "https://www.transfermarkt.com/liga-pro-ecuador/startseite/wettbewerb/EC1"
+    },
+    {
+      "name": "Segunda Categoría",
+      "country": "Ecuador",
+      "tier": 2,
+      "num_teams": 12,
+      "official_website": "https://www.ligapro.ec/",
+      "transfermarkt_url": "https://www.transfermarkt.com/segunda-categoria/startseite/wettbewerb/ECSC"
+    },
+    {
+      "name": "División Profesional",
+      "country": "Bolivia",
+      "tier": 1,
+      "num_teams": 16,
+      "official_website": "https://www.lfpb.bo/",
+      "transfermarkt_url": "https://www.transfermarkt.com/division-profesional-apertura/startseite/wettbewerb/BOL1"
+    },
+    {
+      "name": "Liga 1",
+      "country": "Peru",
+      "tier": 1,
+      "num_teams": 18,
+      "official_website": "https://www.fpf.org.pe/",
+      "transfermarkt_url": "https://www.transfermarkt.com/liga-1-peru/startseite/wettbewerb/PER1"
+    },
+    {
+      "name": "Liga 2",
+      "country": "Peru",
+      "tier": 2,
+      "num_teams": 16,
+      "official_website": "https://www.fpf.org.pe/",
+      "transfermarkt_url": "https://www.transfermarkt.com/liga-2-peru/startseite/wettbewerb/PER2"
+    },
+    {
+      "name": "MLS",
+      "country": "USA/Canada",
+      "tier": 1,
+      "num_teams": 29,
+      "official_website": "https://www.mlssoccer.com/",
+      "transfermarkt_url": "https://www.transfermarkt.com/major-league-soccer/startseite/wettbewerb/MLS1"
+    },
+    {
+      "name": "USL Championship",
+      "country": "USA",
+      "tier": 2,
+      "num_teams": 24,
+      "official_website": "https://www.uslchampionship.com/",
+      "transfermarkt_url": "https://www.transfermarkt.com/usl-championship/startseite/wettbewerb/USLC"
+    },
+    {
+      "name": "Primera División",
+      "country": "Venezuela",
+      "tier": 1,
+      "num_teams": 18,
+      "official_website": "https://www.futve.org/",
+      "transfermarkt_url": "https://www.transfermarkt.com/primera-division/startseite/wettbewerb/VE1"
+    },
+    {
+      "name": "Segunda División",
+      "country": "Venezuela",
+      "tier": 2,
+      "num_teams": 16,
+      "official_website": "https://www.futve.org/",
+      "transfermarkt_url": "https://www.transfermarkt.com/segunda-division/startseite/wettbewerb/VE2"
+    },
+    {
+      "name": "Primera Federación",
+      "country": "Spain",
+      "tier": 3,
+      "num_teams": 40,
+      "official_website": "https://www.rfef.es/",
+      "transfermarkt_url": "https://www.transfermarkt.com/primera-federacion/startseite/wettbewerb/ES3A",
+      "note": "FC Barcelona B plays here - 2 groups of 20 teams"
+    },
+    {
+      "name": "Segunda Federación",
+      "country": "Spain",
+      "tier": 4,
+      "num_teams": 90,
+      "official_website": "https://www.rfef.es/",
+      "transfermarkt_url": "https://www.transfermarkt.com/segunda-federacion/startseite/wettbewerb/ES4A",
+      "note": "5 groups, ~90 teams total"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+# Data files (too large for GitHub)
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Logs
+*.log
+update_log.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Credentials (should already be in project files but extra safety)
+*credentials*
+*password*
+*secret*
